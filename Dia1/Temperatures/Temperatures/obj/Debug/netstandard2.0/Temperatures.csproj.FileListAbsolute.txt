@@ -1,0 +1,9 @@
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\bin\Debug\netstandard2.0\Temperatures.deps.json
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\bin\Debug\netstandard2.0\Temperatures.dll
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\bin\Debug\netstandard2.0\Temperatures.pdb
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\obj\Debug\netstandard2.0\Temperatures.csprojAssemblyReference.cache
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\obj\Debug\netstandard2.0\Temperatures.AssemblyInfoInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\obj\Debug\netstandard2.0\Temperatures.AssemblyInfo.cs
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\obj\Debug\netstandard2.0\Temperatures.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\obj\Debug\netstandard2.0\Temperatures.dll
+C:\Users\Ricardo D.Monkey\source\repos\Temperatures\Temperatures\obj\Debug\netstandard2.0\Temperatures.pdb
