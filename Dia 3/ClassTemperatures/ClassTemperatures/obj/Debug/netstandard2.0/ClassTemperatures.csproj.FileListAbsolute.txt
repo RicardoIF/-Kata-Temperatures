@@ -1,0 +1,9 @@
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\bin\Debug\netstandard2.0\ClassTemperatures.deps.json
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\bin\Debug\netstandard2.0\ClassTemperatures.dll
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\bin\Debug\netstandard2.0\ClassTemperatures.pdb
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\obj\Debug\netstandard2.0\ClassTemperatures.csprojAssemblyReference.cache
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\obj\Debug\netstandard2.0\ClassTemperatures.AssemblyInfoInputs.cache
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\obj\Debug\netstandard2.0\ClassTemperatures.AssemblyInfo.cs
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\obj\Debug\netstandard2.0\ClassTemperatures.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\obj\Debug\netstandard2.0\ClassTemperatures.dll
+C:\Users\Ricardo D.Monkey\Desktop\INS368\Dia 3\ClassTemperatures\ClassTemperatures\obj\Debug\netstandard2.0\ClassTemperatures.pdb
